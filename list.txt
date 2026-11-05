@@ -1,5 +1,5 @@
-# doc contains the name of the app and the corresponding link 
-# where the app can be download/viewed
+Note: doc contains the name of the app and the corresponding link 
+where the app can be download/viewed
 
 App Name / links
 
