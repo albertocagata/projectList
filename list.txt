@@ -1,3 +1,6 @@
+# doc contains the name of the app and the corresponding link 
+# where the app can be download/viewed
+
 App Name / links
 
 Ever Accountable - https://apps.apple.com/ph/app/ever-accountable-full-safety/id1074047778
